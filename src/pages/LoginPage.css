@@ -5,6 +5,11 @@
     border: 1px solid #ccc;
     border-radius: 5px;
   }
+body{
+    background: url("https://www.calu.edu/news/2021/_files/cal-u-film-series.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+  }
   
   .error-message {
     color: red;
